@@ -1,0 +1,28 @@
+[0.006s] Invoking command in '/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/pluem/workspace_bot/bot_rosv1/src -DCMAKE_INSTALL_PREFIX=/home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1
+[0.052s] -- The C compiler identification is GNU 11.4.0
+[0.087s] -- The CXX compiler identification is GNU 11.4.0
+[0.091s] -- Detecting C compiler ABI info
+[0.133s] -- Detecting C compiler ABI info - done
+[0.139s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.139s] -- Detecting C compile features
+[0.139s] -- Detecting C compile features - done
+[0.141s] -- Detecting CXX compiler ABI info
+[0.189s] -- Detecting CXX compiler ABI info - done
+[0.194s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.194s] -- Detecting CXX compile features
+[0.194s] -- Detecting CXX compile features - done
+[0.197s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.291s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.346s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.384s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.384s]   ament_package_xml() package name 'bot_rosv1' in '/package.xml' does not
+[0.384s]   match current PROJECT_NAME 'my_bot'.  You must call project() with the same
+[0.384s]   package name before.
+[0.384s] Call Stack (most recent call first):
+[0.384s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.384s]   CMakeLists.txt:32 (ament_lint_auto_find_test_dependencies)
+[0.384s] 
+[0.384s] [0m
+[0.384s] -- Configuring incomplete, errors occurred!
+[0.384s] See also "/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1/CMakeFiles/CMakeOutput.log".
+[0.386s] Invoked command in '/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/pluem/workspace_bot/bot_rosv1/src -DCMAKE_INSTALL_PREFIX=/home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1

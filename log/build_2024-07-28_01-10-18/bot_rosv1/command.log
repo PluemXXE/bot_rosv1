@@ -1,0 +1,4 @@
+Invoking command in '/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1 -- -j16 -l16
+Invoked command in '/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1 -- -j16 -l16
+Invoking command in '/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1
+Invoked command in '/home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1

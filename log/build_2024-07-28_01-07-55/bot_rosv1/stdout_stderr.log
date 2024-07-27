@@ -1,0 +1,34 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pluem/workspace_bot/bot_rosv1/build/bot_rosv1
+-- Install configuration: ""
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/config
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/config/empty.yaml
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/description
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/description/robot.urdf.xacro
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/launch
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/launch/rsp.launch.py
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/worlds
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/worlds/empty.world
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/ament_index/resource_index/package_run_dependencies/bot_rosv1
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/ament_index/resource_index/parent_prefix_path/bot_rosv1
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/environment/ament_prefix_path.sh
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/environment/ament_prefix_path.dsv
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/environment/path.sh
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/environment/path.dsv
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/local_setup.bash
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/local_setup.sh
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/local_setup.zsh
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/local_setup.dsv
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/package.dsv
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/ament_index/resource_index/packages/bot_rosv1
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/cmake/bot_rosv1Config.cmake
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/cmake/bot_rosv1Config-version.cmake
+-- Installing: /home/pluem/workspace_bot/bot_rosv1/install/bot_rosv1/share/bot_rosv1/package.xml

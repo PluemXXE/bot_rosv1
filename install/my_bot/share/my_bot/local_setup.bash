@@ -1,0 +1,1 @@
+/home/pluem/workspace_bot/bot_rosv1/build/my_bot/ament_cmake_environment_hooks/local_setup.bash
